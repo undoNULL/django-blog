@@ -1,7 +1,6 @@
 name: PR test
 run-name: PR test
 on:
-  push:
   pull_request:
 
 jobs:

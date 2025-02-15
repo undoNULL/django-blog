@@ -17,7 +17,6 @@ Including another URLconf
 
 from django.urls import include, path, re_path
 from django.contrib import admin
-from django.urls import path
 
 from rest_framework import routers
 from rest_framework import permissions
